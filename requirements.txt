@@ -1,0 +1,13 @@
+flask
+gunicorn
+django
+django-heroku
+bokeh
+json
+alpha_vantage
+requests
+pandas
+datetime
+random
+shutil
+
